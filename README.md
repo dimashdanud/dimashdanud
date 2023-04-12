@@ -1,7 +1,10 @@
 Hi, I am Dimas,
 I am interested in Android Development and Machine Learning, and currently learning more about both.
-You can contact me on my social media
-@dimas.hdanud (GitHub) @dimas.hdanud (Instagram), @dimashdanud (Twitter), or dhdanudahlan@gmail.com
+
+You can contact me on my social media:
+
+DimasH#9097 (Discord) @dimas.hdanud (Instagram), @dimashdanud (Twitter), or dhdanudahlan@gmail.com
+
 https://beacons.ai/dimashdanud
 
 <!---
